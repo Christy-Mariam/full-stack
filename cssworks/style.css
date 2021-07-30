@@ -1,0 +1,44 @@
+/* tagname or id or classname */
+
+/* tagname or id or classname{
+    property:value;
+} */
+
+h1{
+    color: red;
+}
+
+#one{
+    color:rgb(83, 32, 115);
+}
+
+body{
+    background-color: rgb(190, 217, 221);
+    background-image: url("btech.jfif");
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+
+div{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(231, 60, 8);
+    background-color: yellow;
+    width:50%;
+}
+
+#civil{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(12, 8, 231);
+    background-color: rgb(226, 133, 214);
+    width:50%;
+}
+
+.ec{
+    border-style: dashed;
+    border-width: 5px;
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(117, 187, 25);
+    width:50%;
+}
